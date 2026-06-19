@@ -20,16 +20,12 @@ page 1 (
         source {
             htmlCode:
                 ```html
-                <p>
-                
-                    Oracle APEX provides developers with the ability to create Progressive Web
-                    Apps (PWAs) that can be easily installed on any desktop or mobile device,
-                    offering users a more native app experience. This application serves as a
-                    useful reference for developers looking to incorporate key PWA features
-                    into their own applications, helping them to create more engaging and
-                    user-friendly apps.
-                
-                </p>
+                Oracle APEX provides developers with the ability to create Progressive Web
+                Apps (PWAs) that can be easily installed on any desktop or mobile device,
+                offering users a more native app experience. This application serves as a
+                useful reference for developers looking to incorporate key PWA features
+                into their own applications, helping them to create more engaging and
+                user-friendly apps.
                 ```
         }
         layout {

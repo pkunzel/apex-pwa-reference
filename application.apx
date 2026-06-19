@@ -1,7 +1,6 @@
-app APEX-PWA-REFERENCE (
-    name: APEX PWA Reference
+app CUSTOM-APEX-PWA-REFERENCE (
+    name: Custom - APEX PWA Reference
     version: 26.1.0
-    group: @sample-apps
     logo {
         type: text
         text: APEX PWA Reference
@@ -82,7 +81,7 @@ app APEX-PWA-REFERENCE (
 
     substitution APP_NAME (
         value {
-            staticValue: APEX PWA Reference
+            staticValue: CUSTOM - APEX PWA Reference
         }
     )
 

@@ -163,12 +163,7 @@ page 7 (
         source {
             htmlCode:
                 ```html
-                <p>
-                
-                    This table shows the supported combinations of operating systems and
-                    browsers for the PWA installation feature.
-                
-                </p>
+                <p>This table shows the supported combinations of operating systems and browsers for the PWA installation feature.</p>
                 
                 <table class="u-Report u-Report--staticBG u-Report--stretch dm-Report--doc dm-Report--grid">
                     <thead>
@@ -273,12 +268,14 @@ page 7 (
             htmlCode:
                 ```html
                 <p class="col-8">
-                    All devices, from desktop to mobile, offer a tailored web app installation experience. 
+                    All devices, from desktop to mobile, offer a tailored web app installation experience.
                     See examples below for a preview of the feature.
                 </p>
                 
                 <p class="col-8">
-                    Desktop users can find the <strong><span class="t-Icon fa fa-cloud-download" aria-hidden="true"></span> Install App</strong> button in the navigation bar to trigger the installation process. 
+                    Desktop users can find the
+                    <strong><span class="t-Icon fa fa-cloud-download" aria-hidden="true"></span> Install App</strong> button in the
+                    navigation bar to trigger the installation process.
                     Mobile users can find the same button, except it will display as only an icon.
                 </p>
                 ```
@@ -942,17 +939,12 @@ page 7 (
         source {
             htmlCode:
                 ```html
-                <p>
-                    APEX PWAs allow any APEX application to be installed on any device, 
-                    creating a deep integration with the operating system and providing remarkable accessibility.
-                </p>
-                
-                <p>
-                    An APEX PWA is the most convenient gateway to your app: users can launch it using a home screen icon, 
-                    enjoy a full-screen experience in a dedicated window, and effortlessly locate it on their device. 
-                    To attract the widest audience, APEX delivers a smooth, user-friendly installation process, 
-                    encouraging users to intuitively adopt your app.
-                </p>
+                <p>APEX PWAs allow any APEX application to be installed on any device, creating a deep integration with the operating
+                    system and providing remarkable accessibility.</p>
+                <p>An APEX PWA is the most convenient gateway to your app: users can launch it using a home screen icon, enjoy a
+                    full-screen experience in a dedicated window, and effortlessly locate it on their device.
+                    To attract the widest audience, APEX delivers a smooth, user-friendly installation process,
+                    encouraging users to intuitively adopt your app.</p>
                 ```
         }
         layout {
